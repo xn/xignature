@@ -1,4 +1,4 @@
-
+Changed Signature namespace to Xignature
 0.1.8 / 2015-01-16
 ==================
 
