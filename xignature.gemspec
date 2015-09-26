@@ -6,11 +6,11 @@ Gem::Specification.new do |s|
   s.name        = "xignature"
   s.version     = Xignature::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["Martyn Loughran"]
-  s.email       = ["me@mloughran.com"]
-  s.homepage    = "http://github.com/mloughran/xignature"
-  s.summary     = %q{Simple key/secret based authentication for apis}
-  s.description = %q{Simple key/secret based authentication for apis}
+  s.authors     = ["Martyn Loughran", "XN"]
+  s.email       = ["me@mloughran.com", "christian.trosclair@gmail.com"]
+  s.homepage    = "http://github.com/xn/xignature"
+  s.summary     = %q{Simple key/secret based authentication for apis without domain collisions.}
+  s.description = %q{Simple key/secret based authentication for apis without domain collisions.}
 
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")

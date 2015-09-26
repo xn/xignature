@@ -1,7 +1,7 @@
-xignature
+xignature - xignature renamed.
 =========
 
-[![Build Status](https://secure.travis-ci.org/mloughran/xignature.png?branch=master)](http://travis-ci.org/mloughran/xignature)
+[![Build Status](https://secure.travis-ci.org/xn/xignature.png?branch=master)](http://travis-ci.org/xn/xignature)
 
 Examples
 --------
